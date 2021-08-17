@@ -8,5 +8,5 @@ IGW_name = "Test_IGW"
 public_subnet1_name = "Test_Subnet"
 Main_Routing_Table = "Test_Route"
 key_name = "veera_dont_delete.key"
-environment = "dev"
+environment = "Test"
 
