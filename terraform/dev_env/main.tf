@@ -6,7 +6,7 @@ provider "aws" {
 }
 #terraform {
 #  backend "s3" {
-#    bucket = "yerramsettiveeraganesh_dev"
+#    bucket = "yerramsettiveeraganeshdev"
 #    key = "terraform.tfstate"
 #    region = "us-east-1"
 #    access_key = "${var.aws_access_key}"
