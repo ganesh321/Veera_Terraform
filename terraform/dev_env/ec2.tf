@@ -11,3 +11,7 @@ resource "aws_instance" "VeeraServer" {
     }
 
 } 
+###### Importing ec2 instace
+#resource "aws_instance" "VeeraServer1" {
+# Command to Import "terraform import aws_instance.VeeraServer1 instance-id"
+#}
